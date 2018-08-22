@@ -1,13 +1,5 @@
-//
-//  JPushActionQueue.h
-//  RCTJPushModule
-//
-//  Created by oshumini on 2016/12/19.
-//  Copyright © 2016年 HXHG. All rights reserved.
-//
-
-#import <Foundation/Foundation.h>
 #import <Flutter/Flutter.h>
+#import <Foundation/Foundation.h>
 #define kJPFDidReceiveRemoteNotification  @"kJPFDidReceiveRemoteNotification"
 
 #define kJPFOpenNotification @"kJPFOpenNotification" // 通过点击通知事件
