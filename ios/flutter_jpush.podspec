@@ -18,6 +18,6 @@ A new flutter plugin project.
   s.dependency 'JPush'
   
   s.ios.deployment_target = '10.0'
-  s.static_framework = true
+  #s.static_framework = true
 end
 
