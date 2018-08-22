@@ -16,11 +16,11 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  #s.dependency 'JPush'
+  s.dependency 'JPush'
 
   #s.preserve_paths = 'yourframework.framework'
   #s.xcconfig = { 'OTHER_LDFLAGS' => '-framework yourframework' }
-  s.vendored_frameworks = 'JPush'
+  #s.vendored_frameworks = 'JPush'
   
   s.ios.deployment_target = '8.0'
 end
