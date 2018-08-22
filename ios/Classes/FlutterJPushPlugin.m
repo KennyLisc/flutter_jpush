@@ -1,5 +1,5 @@
 
-#import "FlutterJpushPlugin.h"
+#import "FlutterJPushPlugin.h"
 
 
 #import <AdSupport/AdSupport.h>
