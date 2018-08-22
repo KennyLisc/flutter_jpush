@@ -17,6 +17,7 @@ A new flutter plugin project.
   s.dependency 'Flutter'
   s.dependency 'JPush'
   
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
+  s.static_framework = true
 end
 
